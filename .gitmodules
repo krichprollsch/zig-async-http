@@ -1,0 +1,3 @@
+[submodule "tigerbeetle-io"]
+	path = tigerbeetle-io
+	url = git@github.com:lightpanda-io/tigerbeetle-io.git
